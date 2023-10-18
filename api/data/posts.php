@@ -4,7 +4,7 @@
     [
       'id' => 1,
       'title' => 'PHP',
-      'description' => 'Neste portfólio estou denunciando todas asa minhas habilidades e esperiências em PHP, e também o minimo do deseenvolvimento web.',
+      'description' => 'Neste portfólio estou falando sobre todas as minhas habilidades e esperiências em PHP, e também o minimo do desenvolvimento web.',
       'tags' => ['programação', 'PHP', 'lógica de programação'],
       'img' => 'prog-1.jpg'
     ],
